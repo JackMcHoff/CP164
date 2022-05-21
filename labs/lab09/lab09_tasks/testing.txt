@@ -1,0 +1,192 @@
+"""
+------------------------------------------------------------------------
+CP164 Lab 09, Testing
+------------------------------------------------------------------------
+Author: Your Full Name
+ID:     190401010
+Email:  name1010@mylaurier.ca
+__updated__ = "2022-03-18"
+------------------------------------------------------------------------
+"""
+t01
+Name: Gulab Jamun
+Origin (Enter Number)
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+: 2
+Vegetarian? (Y/N): Y
+Calories: 100
+
+Name: Saag
+Origin (Enter Number)
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+: 2
+Vegetarian? (Y/N): Y
+Calories: 100
+
+Hash     Slot Key
+-------- ---- --------------------
+    1030    2 Name:       Gulab Jamun
+Origin:     Indian
+Vegetarian: True
+Calories:   100
+     380    0 Name:       Saag
+Origin:     Indian
+Vegetarian: True
+Calories:   100
+
+t02
+Printing hset: 
+100
+200
+300
+
+Removed Value: 
+200
+
+Printing hset: 
+100
+300
+
+t03
+3 slots
+
+========================================
+Slot 0
+
+300
+
+Slot 1
+
+100
+
+Slot 2
+
+200
+
+t04
+Hash Set: 
+1 slots
+
+========================================
+Slot 0
+
+100
+
+1000
+
+20
+
+5
+
+6
+
+10
+
+2
+
+9
+
+3400
+
+300
+
+500
+
+10000
+
+
+New Hash Set: 
+3 slots
+
+========================================
+Slot 0
+
+6
+
+9
+
+300
+
+102
+
+1002
+
+21
+
+12
+
+3
+
+3402
+
+501
+
+10002
+
+Slot 1
+
+100
+
+1000
+
+10
+
+3400
+
+10000
+
+22
+
+7
+
+4
+
+301
+
+502
+
+Slot 2
+
+20
+
+5
+
+2
+
+500
+
+101
+
+1001
+
+8
+
+11
+
+3401
+
+302
+
+10001

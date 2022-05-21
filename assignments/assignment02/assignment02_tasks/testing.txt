@@ -1,0 +1,84 @@
+"""
+------------------------------------------------------------------------
+CP164 Assignment 02, Testing
+------------------------------------------------------------------------
+Author: Your Full Name
+ID:     190401010
+Email:  name1010@mylaurier.ca
+__updated__ = "2022-01-15"
+------------------------------------------------------------------------
+"""
+t01
+Name:       Turducken
+Origin:     American
+Vegetarian: False
+Calories:   12240
+
+Name:       Diet Free-Range Gluten-free Water
+Origin:     American
+Vegetarian: True
+Calories:   0
+
+Name:       Chicken Wings
+Origin:     American
+Vegetarian: False
+Calories:   298
+
+
+t02
+Average Calories: 791
+
+t03
+Average Calories: 328
+
+t04
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+BBQ Pork                            Chinese           False      920
+Beef with Green Pepper              Chinese           False      251
+Butter Chicken                      Indian            False      490
+Canada Goose Chili                  Canadian          False      199
+Canuck Burger                       Canadian          False     7500
+Chamuco                             Mexican            True      150
+Chicken Chow Mein                   Chinese           False      178
+Chicken Kabob                       Indian            False      167
+Chicken Wings                       American          False      298
+Chip Butty                          English            True      956
+Chirashi Don                        Japanese          False      600
+Crepe                               Italian            True      186
+Diet Free-Range Gluten-free Water   American           True        0
+Fettuccine                          Italian           False      266
+Fricot                              Canadian          False      360
+Fried Rice                          Chinese           False      425
+General Tao Chicken                 Chinese           False      850
+Greek Salad                         Greek              True      185
+Grilled Salmon                      Canadian          False      511
+Hokey Pokey Ice Cream               New Zealand        True      106
+Kung Pao Chicken                    Chinese           False      229
+Lasagna                             Italian           False      135
+Lemon Chicken                       Chinese           False      226
+Moo Goo Guy Pan                     Chinese           False      272
+Natto                               Japanese           True      212
+Orange Chicken                      Chinese           False      800
+Panzerotti                          Italian           False      770
+Pavlova                             New Zealand        True      272
+Pepperoni Pizza                     Italian           False      713
+Poutine                             Canadian          False      710
+Ravioli                             Italian           False      246
+Shark Fin Soup                      Chinese           False       46
+Shortbread                          Scottish           True      502
+Spanakopita                         Greek              True      260
+Spicy Vegetable Moo Shu             Chinese            True      140
+Spring Rolls                        Chinese            True      200
+Sweet and Sour Pork                 Chinese           False      231
+Szechuan Shrimp                     Chinese           False      516
+Teppanyaki                          Japanese          False      200
+Teriyaki                            Japanese          False      233
+Turducken                           American          False    12240
+Vegetable Alicha                    Ethiopian          True      138
+Vegetables with Cashew Nuts         Chinese            True      143
+
+t05
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+Chip Butty                          English            True      956

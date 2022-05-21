@@ -1,0 +1,98 @@
+"""
+------------------------------------------------------------------------
+CP164 Assignment 08, Testing
+------------------------------------------------------------------------
+Author: Your Full Name
+ID:     190401010
+Email:  name1010@mylaurier.ca
+__updated__ = "2022-03-17"
+------------------------------------------------------------------------
+"""
+t01
+The BST is valid?: 
+True
+
+The BST is balanced?: 
+True
+
+The BSTs are identical?: 
+False
+
+Minimum value in BST: 
+0
+
+Number of nodes with 0 children: 
+4
+
+Number of nodes with 1 child: 
+0
+
+Number of nodes with 2 children: 
+3
+
+Values in order from bst: 
+[0, 1, 2, 3, 4, 5, 6]
+
+Values in preorder from bst: 
+[3, 1, 0, 2, 5, 4, 6]
+
+Values in postorder from bst: 
+[0, 2, 1, 4, 6, 5, 3]
+
+Values in levelorder from bst: 
+[3, 1, 5, 0, 2, 4, 6]
+
+Removed Value: 
+3
+
+Printing Updated BST: 
+2
+1
+5
+0
+4
+6
+
+t02
+Comparing by order: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Total Comparisons:  31,250,743
+
+Comparing by order: MFTCJPWADHKNRUYBEIGLOQSVXZ
+Total Comparisons:  9,645,918
+
+Comparing by order: ETAOINSHRDLUCMPFYWGBVKJXZQ
+Total Comparisons:  8,856,167
+
+t03
+Letter Count/Percent Table
+
+Total Count: 1,281,204
+
+Letter  Count       %
+---------------------
+    A  99,249   40.25%
+    B  18,031    4.22%
+    C  40,008   10.78%
+    D  50,924   16.45%
+    E  168,374  196.89%
+    F  36,256   11.43%
+    G  18,844    4.41%
+    H  70,753   20.87%
+    I  95,763   58.53%
+    J   1,920    0.45%
+    K   3,063    0.87%
+    L  43,138   15.61%
+    M  32,809    7.68%
+    N  87,437   26.79%
+    O  97,241   84.07%
+    P  28,579    6.96%
+    Q   1,741    0.41%
+    R  81,236   21.39%
+    S  86,167   28.88%
+    T  122,887   97.34%
+    U  37,289   18.02%
+    V  14,967    3.51%
+    W  19,734    6.44%
+    X   4,197    0.98%
+    Y  19,775    7.80%
+    Z     822    0.19%

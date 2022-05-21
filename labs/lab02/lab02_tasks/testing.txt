@@ -1,0 +1,37 @@
+"""
+------------------------------------------------------------------------
+CP164 Lab 02, Testing
+------------------------------------------------------------------------
+Author: Your Full Name
+ID:     190401010
+Email:  name1010@mylaurier.ca
+__updated__ = "2022-01-21"
+------------------------------------------------------------------------
+"""
+t01
+Stack is empty
+1 is no longer in the stack
+top
+
+t02
+top
+bottom
+
+t03
+['bottom', 'top']
+
+t04
+Stack is not empty
+10
+10
+
+t05
+Stack is not empty
+Name:       Chicken Wings
+Origin:     American
+Vegetarian: False
+Calories:   298
+Name:       Chicken Wings
+Origin:     American
+Vegetarian: False
+Calories:   298

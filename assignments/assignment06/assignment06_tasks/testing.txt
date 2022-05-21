@@ -1,0 +1,97 @@
+"""
+------------------------------------------------------------------------
+CP164 Assignment 05, Testing
+------------------------------------------------------------------------
+Author: Your Full Name
+ID:     190401010
+Email:  name1010@mylaurier.ca
+__updated__ = "2022-03-02"
+------------------------------------------------------------------------
+"""
+t01
+Queue is empty: 
+True
+
+Queue is Full: 
+False
+
+Length of queue: 
+0
+
+Length of queue: 
+1
+
+Removed Node: 
+11
+
+First item in queue: 
+22
+
+Printing queue2: 
+22
+44
+
+Printing target1: 
+22
+
+Printing target2: 
+44
+
+t02
+Queue is empty: 
+True
+
+Length of queue: 
+0
+
+Length of queue: 
+1
+
+Removed Node: 
+11
+
+First item in queue: 
+22
+
+Printing queue2: 
+22
+44
+
+Printing target1: 
+22
+
+Printing target2: 
+44
+
+Printing target1: 
+11
+22
+
+Printing target2: 
+33
+44
+
+t03
+Queue is empty: 
+True
+
+Length of queue: 
+2
+
+Value at Front: 
+11
+
+Value at Rear: 
+22
+
+Value Removed: 
+11
+
+Value Removed: 
+22
+
+Values in queue: 
+44
+22
+33
+11

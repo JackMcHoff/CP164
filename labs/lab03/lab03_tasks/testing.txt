@@ -1,0 +1,54 @@
+"""
+------------------------------------------------------------------------
+CP164 Lab 03 Testing
+------------------------------------------------------------------------
+Author: Your Full Name
+ID:     190401010
+Email:  name1010@mylaurier.ca
+__updated__ = "2022-01-29"
+------------------------------------------------------------------------
+"""
+t01
+Enter a value: 9
+1
+
+t02
+Enter a value: 100
+100
+100
+
+t03
+1
+2
+3
+[1, 2, 3]
+True
+Enter a value: 200
+1
+1
+
+t04
+Enter a number: 100
+100
+
+t05
+Enter a number: 100
+100
+
+t06
+11
+22
+33
+44
+55
+[11, 22, 33, 44, 55]
+True
+Enter a food: Gulab Jamun|2|True|42
+Name:       BBQ Pork
+Origin:     Chinese
+Vegetarian: False
+Calories:   920
+Name:       BBQ Pork
+Origin:     Chinese
+Vegetarian: False
+Calories:   920

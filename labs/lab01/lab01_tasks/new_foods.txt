@@ -1,0 +1,2 @@
+Gulab Jamun|2|True|300
+Spanakopita|5|True|260

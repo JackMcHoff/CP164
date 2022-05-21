@@ -1,0 +1,5 @@
+.DS_Store
+.metadata
+__pycache__/
+.vscode/
+data_structures/ 

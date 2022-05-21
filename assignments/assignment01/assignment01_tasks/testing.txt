@@ -1,0 +1,57 @@
+"""
+------------------------------------------------------------------------
+CP164 Assignment 01, Testing
+------------------------------------------------------------------------
+Author: Your Full Name
+ID:     190401010
+Email:  name1010@mylaurier.ca
+__updated__ = "2022-01-15"
+------------------------------------------------------------------------
+"""
+t01
+Enter values (seperated by a comma): 1,2,3,4,5,2,3,4,5,3,4,5,4,5,5
+Cleaned List: [1, 2, 3, 4, 5]
+
+t02
+Please enter a string: I think your book is an utter piece of Garbage.
+ thnk yr bk s n ttr pc f Grbg.
+
+t03
+File Contents: 
+This file!!!
+1234
+
+Values:
+Uppercase Letters:     1
+Lowercase Letters:     7
+Digits:                4
+Whitespace Characters: 2
+Remaining Characters:  3
+
+t04
+Enter year: 3000
+3000 is not a leap year
+
+t05
+Enter word: Dad
+Dad is a palindrome
+
+t06
+Enter values (seperated by a comma): 3,-5,5,11,7
+Biggest Difference: 10
+
+t07
+Matrix: [[0, 2, 4, 6, 8], [1, 3, 5, 7, 9]] 
+Transposed Matrix: [[0, 1], [2, 3], [4, 5], [6, 7], [8, 9]]
+
+t08
+[[1, 2, 3], [100, -99, 10]]
+
+Smallest Value: -99
+Largest Value: 100
+Total: 17
+Average: 2.83
+
+t09
+Enter a string: Track
+Acktray
